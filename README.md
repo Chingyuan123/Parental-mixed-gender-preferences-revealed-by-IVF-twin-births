@@ -20,7 +20,7 @@ Part 4: Calculation of the MLE standard errors of parameters and the values used
 
 Part 5: To examine an alternative classification scheme, where wealth and age are divided into seven and five groups, respectively (Tables S3-S4).
 
-Part 6: To employ a logit regression to examine the effects of the IVF percentage, wealth, and the IVF success rate on multiple birth outcomes and the one-boy-one-girl twin rate.
+Part 6: To employ a logit regression to examine the effects of the IVF percentage, wealth, and the IVF success rate on multiple birth outcomes and the one-boy-one-girl twin rate (Tables S5-S6).
 
 ■ Two data files are used for estimation: 
 
