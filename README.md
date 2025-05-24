@@ -18,7 +18,7 @@ Part 3: Estimation of the gender preference parameters of first-birth mothers wh
 
 Part 4: Calculation of the MLE standard errors of parameters and the values used in Figures 3 and 4 based on the estimates obtained from Part 3 (in STATA). 
 
-Part 5: To examine an alternative classification scheme, where wealth and age are divided into seven and five groups, respectively.
+Part 5: To examine an alternative classification scheme, where wealth and age are divided into seven and five groups, respectively (Tables S3-S4).
 
 Part 6: To employ a logit regression to examine the effects of the IVF percentage, wealth, and the IVF success rate on multiple birth outcomes and the one-boy-one-girl twin rate.
 
